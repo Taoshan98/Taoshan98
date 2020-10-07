@@ -26,13 +26,10 @@ You can use the website to generate badges: https://shields.io/
 ![MongoDB](https://img.shields.io/badge/mongodb-gray?logo=mongodb&style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-gray?logo=mysql&style=for-the-badge)
 
-![Composer](https://img.shields.io/badge/Composer-gray?logo=composer&style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-gray?logo=git&style=for-the-badge)
-![GitHub](https://img.shields.io/badge/GitHub-gray?logo=github&style=for-the-badge)
-
-![VisualStudio](https://img.shields.io/badge/VisualStudio-gray?logo=visual-studio&style=for-the-badge)
+### Tools
 ![JetBrains](https://img.shields.io/badge/JetBrains-gray?logo=jetbrains&style=for-the-badge)
 
+### OS
 ![Windows](https://img.shields.io/badge/Windows-gray?logo=windows&style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-gray?logo=linux&style=for-the-badge)
 ![MacOS](https://img.shields.io/badge/MacOS-gray?logo=apple&style=for-the-badge)
