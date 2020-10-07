@@ -23,7 +23,7 @@ You can use the website to generate badges: https://shields.io/
 ![Bootstrap](https://img.shields.io/badge/BOOTSTRAP-gray?logo=bootstrap&style=for-the-badge)
 
 ### Db
-![PostGresSQL](https://img.shields.io/badge/postgres-gray?logo=postgre&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/mongodb-gray?logo=mongodb&style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-gray?logo=mysql&style=for-the-badge)
 
 ![Composer](https://img.shields.io/badge/Composer-gray?logo=composer&style=for-the-badge)
