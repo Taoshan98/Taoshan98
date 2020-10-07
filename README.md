@@ -15,6 +15,7 @@ You can use the website to generate badges: https://shields.io/
 ![JS](https://img.shields.io/badge/JS-gray?logo=javascript&style=for-the-badge)
 ![JAVA](https://img.shields.io/badge/JAVA-gray?logo=java&style=for-the-badge)
 
+![BOOTSTRAP](https://img.shields.io/badge/BOOTSTRAP-gray?logo=bootstrap&style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/HTML5-gray?logo=html5&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/CSS3-gray?logo=css3&style=for-the-badge)
 
