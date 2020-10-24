@@ -37,5 +37,5 @@ You can use the website to generate badges: https://shields.io/
 ![MacOS](https://img.shields.io/badge/MacOS-gray?logo=apple&style=for-the-badge)
 ![Android](https://img.shields.io/badge/Android-gray?logo=android&style=for-the-badge)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=taoshan98)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=taoshan98&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
