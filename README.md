@@ -36,3 +36,6 @@ You can use the website to generate badges: https://shields.io/
 ![Linux](https://img.shields.io/badge/Linux-gray?logo=linux&style=for-the-badge)
 ![MacOS](https://img.shields.io/badge/MacOS-gray?logo=apple&style=for-the-badge)
 ![Android](https://img.shields.io/badge/Android-gray?logo=android&style=for-the-badge)
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=taoshan98)](https://github.com/anuraghazra/github-readme-stats)
+
