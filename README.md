@@ -39,3 +39,5 @@ You can use the website to generate badges: https://shields.io/
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=taoshan98&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@76f25c7d-4358-404a-acd5-4fd46f1ae124/b7327c9d-0552-4764-8257-4029526aad82.png" /></a>
+
