@@ -55,14 +55,5 @@ experiences made on a professional 👨‍💻 and personal level.
   <img alt="composer" src="https://img.shields.io/badge/-Composer-7A5D46?style=flat-square&logo=composer&logoColor=white" />
   <img alt="travis" src="https://img.shields.io/badge/-Travis CI-FAFBFC?style=flat-square&logo=travis&logoColor=white" />
 </p>
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=taoshan98&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@76f25c7d-4358-404a-acd5-4fd46f1ae124/b7327c9d-0552-4764-8257-4029526aad82.png" /></a>
-
-### Project
-
-|🧠Project|⭐Stars|🍴Forks|❌Issues|🌿Pull Requests|
-|---------|-------|-------|--------|---------------|
-| [CodiceFiscale](https://github.com/fortunatodeangelis/rust-codice-fiscale) | ![GitHub stars](https://img.shields.io/github/stars/fortunatodeangelis/rust-codice-fiscale?style=flat-square&labelColor=343b41) | ![GitHub Forks](https://img.shields.io/github/forks/fortunatodeangelis/rust-codice-fiscale?style=flat-square&labelColor=343b41) | ![GitHub Issues](https://img.shields.io/github/issues/fortunatodeangelis/rust-codice-fiscale?style=flat-square&labelColor=343b41) | ![GitHub PRs](https://img.shields.io/github/issues-pr/fortunatodeangelis/rust-codice-fiscale?style=flat-square&labelColor=343b41) |
-| [GithubProfile](https://github.com/fortunatodeangelis/fortunatodeangelis) | ![GitHub stars](https://img.shields.io/github/stars/fortunatodeangelis/fortunatodeangelis?style=flat-square&labelColor=343b41) | ![GitHub Forks](https://img.shields.io/github/forks/fortunatodeangelis/fortunatodeangelis?style=flat-square&labelColor=343b41) | ![GitHub Issues](https://img.shields.io/github/issues/fortunatodeangelis/fortunatodeangelis?style=flat-square&labelColor=343b41) | ![GitHub PRs](https://img.shields.io/github/issues-pr/fortunatodeangelis/fortunatodeangelis?style=flat-square&labelColor=343b41) |
-
