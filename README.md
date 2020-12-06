@@ -49,9 +49,9 @@ experiences made on a professional 👨‍💻 and personal level.
 ### Tools
 <p>
   <img alt="VSCode" src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
-  <img alt="jetbrains" src="https://img.shields.io/badge/-jetbrains-5e2495?style=flat-square&logo=jetbrains&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/-git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="GitHub" src="https://img.shields.io/badge/-git-000000?style=flat-square&logo=github&logoColor=white" />
+  <img alt="jetbrains" src="https://img.shields.io/badge/-Jetbrains-5e2495?style=flat-square&logo=jetbrains&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github&logoColor=white" />
   <img alt="composer" src="https://img.shields.io/badge/-Composer-7A5D46?style=flat-square&logo=composer&logoColor=white" />
   <img alt="travis" src="https://img.shields.io/badge/-Travis CI-FAFBFC?style=flat-square&logo=travis&logoColor=white" />
 </p>
