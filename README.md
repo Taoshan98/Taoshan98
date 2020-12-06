@@ -25,31 +25,36 @@ experiences made on a professional 👨‍💻 and personal level.
 
 ### Languages
 
-<img alt="PHP" src="https://img.shields.io/badge/-PHP-4F5D95?style=flat-square&logo=php&logoColor=white" />
-<img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F1E05A?style=flat-square&logo=javascript&logoColor=white" />
-<img alt="JAVA" src="https://img.shields.io/badge/-JAVA-FF3333?style=flat-square&logo=java&logoColor=white" />
-<img alt="Html" src="https://img.shields.io/badge/-HTML-E34C26?style=flat-square&logo=html5&logoColor=white" />
-<img alt="CSS3" src="https://img.shields.io/badge/-css-563D7C?style=flat-square&logo=css3&logoColor=white" />
-
-<br>
+<p>
+  <img alt="PHP" src="https://img.shields.io/badge/-PHP-4F5D95?style=flat-square&logo=php&logoColor=white" />
+  <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F1E05A?style=flat-square&logo=javascript&logoColor=white" />
+  <img alt="JAVA" src="https://img.shields.io/badge/-JAVA-FF3333?style=flat-square&logo=java&logoColor=white" />
+  <img alt="Html" src="https://img.shields.io/badge/-HTML-E34C26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/-css-563D7C?style=flat-square&logo=css3&logoColor=white" />
+</p>
 
 ### Frameworks
-<img alt="Laravel" src="https://img.shields.io/badge/-Larvel-F05340?style=flat-square&logo=laravel&logoColor=white" />
-<img alt="Angular" src="https://img.shields.io/badge/-Angular-FF0000?style=flat-square&logo=angular&logoColor=white" /> 
-<img alt="jQuery" src="https://img.shields.io/badge/-jQuery-78CFF5?style=flat-square&logo=jquery&logoColor=white" /> 
-<img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap" /> 
+<p>
+  <img alt="Laravel" src="https://img.shields.io/badge/-Larvel-F05340?style=flat-square&logo=laravel&logoColor=white" />
+  <img alt="Angular" src="https://img.shields.io/badge/-Angular-FF0000?style=flat-square&logo=angular&logoColor=white" /> 
+  <img alt="jQuery" src="https://img.shields.io/badge/-jQuery-78CFF5?style=flat-square&logo=jquery&logoColor=white" /> 
+  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap" /> 
+</p>
 
 ### Db
-<img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<p>
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+</p>
 
 ### Tools
-<img alt="VSCode" src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
-<img alt="jetbrains" src="https://img.shields.io/badge/-jetbrains-5e2495?style=flat-square&logo=jetbrains&logoColor=white" />
-<img alt="Git" src="https://img.shields.io/badge/-git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img alt="GitHub" src="https://img.shields.io/badge/-git-000000?style=flat-square&logo=github&logoColor=white" />
-<img alt="composer" src="https://img.shields.io/badge/-Composer-7A5D46?style=flat-square&logo=composer&logoColor=white" />
-<img alt="travis" src="https://img.shields.io/badge/-Travis CI-FAFBFC?style=flat-square&logo=travis&logoColor=white" />
-
+<p>
+  <img alt="VSCode" src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+  <img alt="jetbrains" src="https://img.shields.io/badge/-jetbrains-5e2495?style=flat-square&logo=jetbrains&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/-git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="GitHub" src="https://img.shields.io/badge/-git-000000?style=flat-square&logo=github&logoColor=white" />
+  <img alt="composer" src="https://img.shields.io/badge/-Composer-7A5D46?style=flat-square&logo=composer&logoColor=white" />
+  <img alt="travis" src="https://img.shields.io/badge/-Travis CI-FAFBFC?style=flat-square&logo=travis&logoColor=white" />
+</p>
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=taoshan98&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@76f25c7d-4358-404a-acd5-4fd46f1ae124/b7327c9d-0552-4764-8257-4029526aad82.png" /></a>
