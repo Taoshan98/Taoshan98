@@ -41,9 +41,10 @@ experiences made on a professional 👨‍💻 and personal level.
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap" /> 
 </p>
 
-### Db
+### DB
 <p>
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-00b33c?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
 
 ### Tools
