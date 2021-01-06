@@ -28,7 +28,8 @@ experiences made on a professional 👨‍💻 and personal level.
 <p>
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-4F5D95?style=flat-square&logo=php&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F1E05A?style=flat-square&logo=javascript&logoColor=white" />
-  <img alt="JAVA" src="https://img.shields.io/badge/-JAVA-FF3333?style=flat-square&logo=java&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-0d6308?style=flat-square&logo=python&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/-Java-FF3333?style=flat-square&logo=java&logoColor=white" />
   <img alt="Html" src="https://img.shields.io/badge/-HTML-E34C26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/-css-563D7C?style=flat-square&logo=css3&logoColor=white" />
 </p>
