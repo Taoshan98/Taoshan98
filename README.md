@@ -57,7 +57,7 @@ experiences made on a professional 👨‍💻 and personal level.
   <img alt="composer" src="https://img.shields.io/badge/-Composer-7A5D46?style=flat-square&logo=composer&logoColor=white" />
 </p>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=taoshan98&count_private=false&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=taoshan98&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Waka Time Stats
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Taoshan98&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
