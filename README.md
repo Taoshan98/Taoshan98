@@ -55,12 +55,10 @@ experiences made on a professional 👨‍💻 and personal level.
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github&logoColor=white" />
   <img alt="composer" src="https://img.shields.io/badge/-Composer-7A5D46?style=flat-square&logo=composer&logoColor=white" />
-  <img alt="travis" src="https://img.shields.io/badge/-Travis CI-FAFBFC?style=flat-square&logo=travis&logoColor=white" />
 </p>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=taoshan98&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=taoshan98&count_private=false&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taoshan98&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
+### Waka Time Stats
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Taoshan98&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
