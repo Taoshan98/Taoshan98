@@ -59,6 +59,5 @@ experiences made on a professional 👨‍💻 and personal level.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=taoshan98&cache_seconds=1800&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-### Waka Time Stats
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Taoshan98&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
