@@ -9,7 +9,6 @@
 [![Instagram](https://img.shields.io/badge/-@Taoshan98-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/taoshan98/)
 [![Twitter Badge](https://img.shields.io/badge/-@NunzioMarfè-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=MarfeNunzio "Follow on Twitter")
 [![StackOverflow](https://img.shields.io/badge/-NunzioMarfè-f48024?style=flat&labelColor=f48024&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/8567455/nunzio-marf%c3%a9)
-![Profile Views](https://komarev.com/ghpvc/?username=Taoshan98&color=blue&style=flat)
 [![wakatime](https://wakatime.com/badge/user/76f25c7d-4358-404a-acd5-4fd46f1ae124.svg)](https://wakatime.com/@76f25c7d-4358-404a-acd5-4fd46f1ae124)
 
 Always interested in the world of information technology,
