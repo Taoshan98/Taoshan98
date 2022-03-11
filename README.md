@@ -17,7 +17,7 @@ new tools / languages for software development 📚.
 I increased my self-taught know-how 🎓 and the numerous
 experiences made on a professional 👨‍💻 and personal level.
 
-- 🌱 I’m currently taking a look at thearning [Laravel](https://laravel.com/), [Angular](https://angular.io/) and [Node](https://reactjs.org/)
+- 🌱 I’m currently taking a look at thearning [Laravel](https://laravel.com/), [ReactJS](https://reactjs.org/) and [Node](https://reactjs.org/)
 - 🔭 I am very active on **Telegram** groups for the increase of know-how in terms of technologies and programming languages
 - 📫 How to reach me: Use any of the **badges**
 - 👾I listen to music, I play videogames. I love to question and confront myself. I am fascinated by talented people
