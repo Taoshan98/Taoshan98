@@ -10,6 +10,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-@NunzioMarfè-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=MarfeNunzio "Follow on Twitter")
 [![StackOverflow](https://img.shields.io/badge/-NunzioMarfè-f48024?style=flat&labelColor=f48024&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/8567455/nunzio-marf%c3%a9)
 ![Profile Views](https://komarev.com/ghpvc/?username=Taoshan98&color=blue&style=flat)
+[![wakatime](https://wakatime.com/badge/user/76f25c7d-4358-404a-acd5-4fd46f1ae124.svg)](https://wakatime.com/@76f25c7d-4358-404a-acd5-4fd46f1ae124)
 
 Always interested in the world of information technology,
 I am especially passionate about new technologies and
@@ -29,7 +30,6 @@ experiences made on a professional 👨‍💻 and personal level.
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-4F5D95?style=flat-square&logo=php&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F1E05A?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-0d6308?style=flat-square&logo=python&logoColor=white" />
-  <img alt="Java" src="https://img.shields.io/badge/-Java-FF3333?style=flat-square&logo=java&logoColor=white" />
   <img alt="Html" src="https://img.shields.io/badge/-HTML-E34C26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/-css-563D7C?style=flat-square&logo=css3&logoColor=white" />
 </p>
@@ -37,7 +37,6 @@ experiences made on a professional 👨‍💻 and personal level.
 ### Frameworks
 <p>
   <img alt="Laravel" src="https://img.shields.io/badge/-Larvel-F05340?style=flat-square&logo=laravel&logoColor=white" />
-  <img alt="Angular" src="https://img.shields.io/badge/-Angular-FF0000?style=flat-square&logo=angular&logoColor=white" /> 
   <img alt="jQuery" src="https://img.shields.io/badge/-jQuery-78CFF5?style=flat-square&logo=jquery&logoColor=white" /> 
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap" /> 
 </p>
@@ -56,8 +55,4 @@ experiences made on a professional 👨‍💻 and personal level.
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github&logoColor=white" />
   <img alt="composer" src="https://img.shields.io/badge/-Composer-7A5D46?style=flat-square&logo=composer&logoColor=white" />
 </p>
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=taoshan98&cache_seconds=1800&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Taoshan98&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
