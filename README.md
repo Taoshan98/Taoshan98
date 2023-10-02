@@ -11,47 +11,48 @@
 [![StackOverflow](https://img.shields.io/badge/-NunzioMarfè-f48024?style=flat&labelColor=f48024&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/8567455/nunzio-marf%c3%a9)
 [![wakatime](https://wakatime.com/badge/user/76f25c7d-4358-404a-acd5-4fd46f1ae124.svg)](https://wakatime.com/@76f25c7d-4358-404a-acd5-4fd46f1ae124)
 
-Always interested in the world of information technology,
-I am especially passionate about new technologies and
-new tools / languages for software development 📚.
-I increased my self-taught know-how 🎓 and the numerous
-experiences made on a professional 👨‍💻 and personal level.
+```php
+<?php
 
-- 🌱 I’m currently taking a look at thearning [ReactJS](https://reactjs.org/) and [Node](https://reactjs.org/)
-- 🔭 I am very active on **Telegram** groups for the increase of know-how in terms of technologies and programming languages
-- 📫 How to reach me: Use any of the **badges**
-- 👾I listen to music, I play videogames. I love to question and confront myself. I am fascinated by talented people
+namespace Taoshan;
 
+class About extends Me
+{
+    protected array $myself = [
+      'birthday' => '1998-10-25',
+      'gender' => 'Male',
+      'city' => 'Naples',
+      'country' => 'Italy'
+    ];
 
-### Languages
+    public function getCurrentWorkplace(): array
+    {
+        return [
+            'workplace' => [
+                'company' => '@GruppoTecno',
+                'position' => 'Full Stack Web Developer',         
+            ]
+        ];
+    }
 
-<p>
-  <img alt="PHP" src="https://img.shields.io/badge/-PHP-4F5D95?style=flat-square&logo=php&logoColor=white" />
-  <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F1E05A?style=flat-square&logo=javascript&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-0d6308?style=flat-square&logo=python&logoColor=white" />
-  <img alt="Html" src="https://img.shields.io/badge/-HTML-E34C26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/-css-563D7C?style=flat-square&logo=css3&logoColor=white" />
-</p>
+    public function getDailyKnowledge(): array
+    {
+        return [
+            Php::class,
+            Laravel::class,
+            Javascript::class,
+            React::class,
+            ReactNative::class,
+            MySQL::class,
+            PostgresSQL::class,
+            TimeScale::class,
+        ];
+    }
 
-### Frameworks
-<p>
-  <img alt="Laravel" src="https://img.shields.io/badge/-Larvel-F05340?style=flat-square&logo=laravel&logoColor=white" />
-  <img alt="jQuery" src="https://img.shields.io/badge/-jQuery-78CFF5?style=flat-square&logo=jquery&logoColor=white" /> 
-  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap" /> 
-</p>
-
-### DB
-<p>
-  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-00b33c?style=flat-square&logo=mongodb&logoColor=white" />
-</p>
-
-### Tools
-<p>
-  <img alt="VSCode" src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
-  <img alt="jetbrains" src="https://img.shields.io/badge/-Jetbrains-5e2495?style=flat-square&logo=jetbrains&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github&logoColor=white" />
-  <img alt="composer" src="https://img.shields.io/badge/-Composer-7A5D46?style=flat-square&logo=composer&logoColor=white" />
-</p>
+    public function getFutureGoal(): string
+    {
+        return 'Solving more and more bugs.';
+    }
+}
+```
 
